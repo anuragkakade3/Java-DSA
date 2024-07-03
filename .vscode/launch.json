@@ -1,0 +1,279 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BuySellStock",
+            "request": "launch",
+            "mainClass": "BuySellStock",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Abstractclass",
+            "request": "launch",
+            "mainClass": "Abstractclass",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Statikeyword",
+            "request": "launch",
+            "mainClass": "Statikeyword",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Contructors",
+            "request": "launch",
+            "mainClass": "OOPS.Contructors",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Statikeyword",
+            "request": "launch",
+            "mainClass": "OOPS.Statikeyword",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Statickeyword",
+            "request": "launch",
+            "mainClass": "OOPS.Statickeyword",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "TwoDarray",
+            "request": "launch",
+            "mainClass": "TwoDarray",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Arrays.Reverse",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Multiply",
+            "request": "launch",
+            "mainClass": "Functions.Multiply",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Inverted",
+            "request": "launch",
+            "mainClass": "Inverted",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Patternone",
+            "request": "launch",
+            "mainClass": "Patternone",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Star",
+            "request": "launch",
+            "mainClass": "Star",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Star",
+            "request": "launch",
+            "mainClass": "Patterns.Star",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Areaofcircle",
+            "request": "launch",
+            "mainClass": "Areaofcircle",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Average",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Bill",
+            "request": "launch",
+            "mainClass": "Bill",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Break",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "Continue",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Leap",
+            "request": "launch",
+            "mainClass": "Leap",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Multiple",
+            "request": "launch",
+            "mainClass": "Multiple",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Numbers",
+            "request": "launch",
+            "mainClass": "Numbers",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "One",
+            "request": "launch",
+            "mainClass": "One",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNo",
+            "request": "launch",
+            "mainClass": "ReverseNo",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Temperatur",
+            "request": "launch",
+            "mainClass": "Temperatur",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Turnary",
+            "request": "launch",
+            "mainClass": "Turnary",
+            "projectName": "Java DSA_28d2a5af"
+        },
+        {
+            "type": "java",
+            "name": "Weeks",
+            "request": "launch",
+            "mainClass": "Weeks",
+            "projectName": "Java DSA_28d2a5af"
+        }
+    ]
+}

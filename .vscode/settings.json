@@ -1,0 +1,18 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "Advance_Pattern",
+        "Arrays",
+        "Basic_Sorting",
+        "Conditional Statements",
+        "Functions",
+        "Loops",
+        "OOPS",
+        "Operators",
+        "Patterns",
+        "strings",
+        "Two_D_Array",
+        "Variables in Data Types"
+    ],
+    "java.project.referencedLibraries": []
+}
