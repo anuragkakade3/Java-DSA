@@ -1,18 +1,22 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "Advance_Pattern",
-        "Arrays",
-        "Basic_Sorting",
-        "Conditional Statements",
-        "Functions",
-        "Loops",
-        "OOPS",
-        "Operators",
-        "Patterns",
         "strings",
+        "Variables in Data Types",
         "Two_D_Array",
-        "Variables in Data Types"
+        "Patterns",
+        "Operators",
+        "OOPS",
+        "Loops",
+        "Functions",
+        "Conditional Statements",
+        "Basic_Sorting",
+        "Arrays",
+        "Advance_Pattern",
+        "Recursion"
     ],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "cSpell.words": [
+        "firstoccurence"
+    ]
 }

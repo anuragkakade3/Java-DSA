@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Occarence",
+            "request": "launch",
+            "mainClass": "Occarence",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "BuySellStock",
             "request": "launch",
             "mainClass": "BuySellStock",
