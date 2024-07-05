@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Opmitizedpower",
+            "request": "launch",
+            "mainClass": "Opmitizedpower",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Lastoccurence",
             "request": "launch",
             "mainClass": "Lastoccurence",
