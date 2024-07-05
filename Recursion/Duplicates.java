@@ -8,6 +8,7 @@ public class Duplicates {
         // Working
         char currentchar = str.charAt(idx);
         if (map[currentchar - 'a'] == true) {
+            // Duplicate
             isduplicate(str, idx + 1, sb, map);
         } else {
             map[currentchar - 'a'] = true;
