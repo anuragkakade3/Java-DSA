@@ -4,6 +4,7 @@
         "strings",
         "Variables in Data Types",
         "Two_D_Array",
+        "Recursion",
         "Patterns",
         "Operators",
         "OOPS",
@@ -13,7 +14,7 @@
         "Basic_Sorting",
         "Arrays",
         "Advance_Pattern",
-        "Recursion"
+        "Divide & Conqure"
     ],
     "java.project.referencedLibraries": [],
     "cSpell.words": [
