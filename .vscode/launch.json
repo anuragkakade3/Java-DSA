@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Magicalarea",
+            "request": "launch",
+            "mainClass": "Magicalarea",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Quicksort",
             "request": "launch",
             "mainClass": "Quicksort",
