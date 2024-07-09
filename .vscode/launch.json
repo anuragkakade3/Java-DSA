@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Magical",
+            "request": "launch",
+            "mainClass": "Magical",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Search",
             "request": "launch",
             "mainClass": "Search",

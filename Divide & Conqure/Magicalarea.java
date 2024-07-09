@@ -19,7 +19,7 @@ public class Magicalarea {
         return random.nextInt(6) + 1; // 1 to 6 sided die
     }
 
-    public static void fight(Player attacker, Player defender) {
+    public static void fight(Player attacker, Player defender, char a, char b) {
         int attackRoll = rollDie();
         int defenseRoll = rollDie();
 
@@ -29,7 +29,8 @@ public class Magicalarea {
         int damageTaken = Math.max(0, attackDamage - defenseStrength);
         defender.health -= damageTaken;
 
-        System.out.println("Attacker rolls " + attackRoll + ", Defender rolls " + defenseRoll);
+        System.out.println(
+                "Attacker " + a + " rolls die " + attackRoll + ", Defender " + b + " rolls die " + defenseRoll);
         System.out.println("Attack damage: " + attackDamage + ", Defense strength: " + defenseStrength);
         System.out.println("Defender health reduced by " + damageTaken + " to " + defender.health + "\n");
     }
@@ -40,23 +41,23 @@ public class Magicalarea {
 
         while (playerA.health > 0 && playerB.health > 0) {
             if (playerA.health < playerB.health) {
-                fight(playerA, playerB);
+                fight(playerA, playerB, 'A', 'B');
                 if (playerB.health <= 0) {
                     System.out.println("Player A wins!");
                     break;
                 }
-                fight(playerB, playerA);
+                fight(playerB, playerA, 'B', 'A');
                 if (playerA.health <= 0) {
                     System.out.println("Player B wins!");
                     break;
                 }
             } else {
-                fight(playerB, playerA);
+                fight(playerB, playerA, 'B', 'A');
                 if (playerA.health <= 0) {
                     System.out.println("Player B wins!");
                     break;
                 }
-                fight(playerA, playerB);
+                fight(playerA, playerB, 'A', 'B');
                 if (playerB.health <= 0) {
                     System.out.println("Player A wins!");
                     break;
