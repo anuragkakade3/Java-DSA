@@ -30,9 +30,9 @@ public class Magicalarea {
         defender.health -= damageTaken;
 
         System.out.println(
-                "Attacker " + a + " rolls die " + attackRoll + ", Defender " + b + " rolls die " + defenseRoll);
+                "Attacker " + a + " rolls die: " + attackRoll + " , Defender " + b + " rolls die: " + defenseRoll);
         System.out.println("Attack damage: " + attackDamage + ", Defense strength: " + defenseStrength);
-        System.out.println("Defender health reduced by " + damageTaken + " to " + defender.health + "\n");
+        System.out.println("Defender " + b + " health reduced by " + damageTaken + " to " + defender.health + "\n");
     }
 
     public static void main(String[] args) {
