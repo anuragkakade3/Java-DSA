@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "sitoi.ai-commit"
+        "sitoi.ai-commit",
+        "vivaxy.vscode-conventional-commits",
+        "michaelcurrin.auto-commit-msg"
     ]
 }
