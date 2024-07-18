@@ -40,11 +40,11 @@ public class Arraylist {
 
         // Sorting
 
-        System.out.println(list);
-        Collections.sort(list);
-        System.out.println(list); // prints: [1, 2, 3, 4, 5]
-        Collections.sort(list,Collections.reverseOrder());
-        System.out.println(list); // prints: [5, 4, 3, 2, 1]
+        // System.out.println(list);
+        // Collections.sort(list);
+        // System.out.println(list); // prints: [1, 2, 3, 4, 5]
+        // Collections.sort(list,Collections.reverseOrder());
+        // System.out.println(list); // prints: [5, 4, 3, 2, 1]
 
 
 
