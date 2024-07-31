@@ -1,7 +1,7 @@
 import java.util.*;
 
-    
-public class Searchkey {
+// File name save as a LinkedList to run the code.
+public class LinkedList {
     public static class Node {
         int data;
         Node next;
@@ -98,11 +98,8 @@ public class Searchkey {
         ll.print();
         System.out.println(ll.itrsearch(3));
         System.out.println(ll.itrsearch(10));
-
-
-        
-    
-        
-
     }
 }
+// O/P:- 1->2->3->4->4->5->Null
+        // 2
+//         -1
