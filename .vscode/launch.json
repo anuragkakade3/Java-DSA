@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CC",
+            "request": "launch",
+            "mainClass": "CC",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Queens",
             "request": "launch",
             "mainClass": "Queens",

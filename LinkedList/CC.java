@@ -1,5 +1,5 @@
 
-import java.util.LinkedList;
+import java.util.*;
 
 public class CC {
     public static class Node{
@@ -33,16 +33,42 @@ public class CC {
         Tail.next=newNode;
         Tail=newNode;
     }
+    public static void print(){
+        if(head == null){
+            System.out.println("LL is Empty");
+            return;
+        }
+        Node temp=head;
+        while(temp!=null){
+            System.out.print(temp.data+" ");
+            temp=temp.next;
+        }
+        System.out.println();
+
+    }
 
     public static void main(String[] args) {
-        LinkedList ll=new LinkedList();
+        LinkedList ll = new LinkedList();
         // ll.head=new Node(1);
         // ll.head.next=new Node(2);
-        ll.addfirst(2);
-        ll.addfirst(1);
+        CC.print();
+        ll.addFirst(2);
+        CC.print();
+        ll.addFirst(1);
+        CC.print();
         ll.addLast(3);
+        CC.print();
         ll.addLast(4);
+        CC.print();
 
     }
     
 }
+/* 
+O/P:
+ * LL is empty
+ * 2 null
+ * 1 2 null
+ * 1 2 3 null
+ * 1 2 3 4 null
+ */
