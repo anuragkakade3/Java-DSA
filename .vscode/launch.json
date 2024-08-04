@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Removecycle",
+            "request": "launch",
+            "mainClass": "Removecycle",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Floyeds",
             "request": "launch",
             "mainClass": "Floyeds",
