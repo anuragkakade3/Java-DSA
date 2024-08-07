@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StackJCF",
+            "request": "launch",
+            "mainClass": "StackJCF",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "StackLL",
+            "request": "launch",
+            "mainClass": "StackLL",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Stacknotes",
+            "request": "launch",
+            "mainClass": "Stacknotes",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "DoubleLL",
             "request": "launch",
             "mainClass": "DoubleLL",
