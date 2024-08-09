@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reversed",
+            "request": "launch",
+            "mainClass": "Reversed",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "ReverseStack",
             "request": "launch",
             "mainClass": "ReverseStack",
