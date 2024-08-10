@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GreaterRight",
+            "request": "launch",
+            "mainClass": "GreaterRight",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Stockstack",
             "request": "launch",
             "mainClass": "Stockstack",
