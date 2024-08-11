@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxareaHistogram",
+            "request": "launch",
+            "mainClass": "MaxareaHistogram",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Duplicateparenthese",
+            "request": "launch",
+            "mainClass": "Duplicateparenthese",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "isValid",
+            "request": "launch",
+            "mainClass": "isValid",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "GreaterRight",
             "request": "launch",
             "mainClass": "GreaterRight",
