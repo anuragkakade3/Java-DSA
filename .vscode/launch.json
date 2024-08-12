@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CirculerQueue",
+            "request": "launch",
+            "mainClass": "CirculerQueue",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "QueueB",
             "request": "launch",
             "mainClass": "QueueB",
