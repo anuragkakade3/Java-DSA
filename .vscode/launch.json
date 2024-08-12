@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StackQueue",
+            "request": "launch",
+            "mainClass": "StackQueue",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "QueueStack",
             "request": "launch",
             "mainClass": "QueueStack",
