@@ -1,4 +1,6 @@
 public class QueueB{
+    /* insertions are done at one end which is known as the rear 
+    and deletions are done from the other end known as the front. */
 
     static class Queue{
         static int arr[];
