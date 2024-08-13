@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dequenote",
+            "request": "launch",
+            "mainClass": "Dequenote",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Reverseorder",
             "request": "launch",
             "mainClass": "Reverseorder",
