@@ -1,8 +1,9 @@
-import java.util.*;
+import java.util.Deque;
+import java.util.LinkedList;
 
-public class Dequenote {
+public class DequeNote {
     public static void main(String[] args) {
-        Deque <Integer> d = new LinkedList<>();
+        Deque<Integer> d = new LinkedList<>();
         d.addFirst(1);
         d.addFirst(1);
         System.out.println(d);
@@ -13,10 +14,5 @@ public class Dequenote {
         d.removeFirst();
         d.removeLast();
         System.out.println(d);
-
-
-
-
     }
 }
-
