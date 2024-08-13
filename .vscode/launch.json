@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QueueDeque",
+            "request": "launch",
+            "mainClass": "QueueDeque",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "StackDeque",
+            "request": "launch",
+            "mainClass": "StackDeque",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "DequeNote",
             "request": "launch",
             "mainClass": "DequeNote",
