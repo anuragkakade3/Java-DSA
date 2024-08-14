@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ActivitySelection",
+            "request": "launch",
+            "mainClass": "ActivitySelection",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "QueueDeque",
             "request": "launch",
             "mainClass": "QueueDeque",
