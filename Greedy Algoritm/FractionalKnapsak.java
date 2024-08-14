@@ -9,6 +9,7 @@ public class FractionalKnapsak {
         int W = 50;
 
         double ratio[][]=new double[val.length][2];
+        
         //0th col=> idx; 1st col => ratio
 
         for(int i=0;i<val.length;i++){
