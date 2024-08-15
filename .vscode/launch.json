@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CoinSystem",
+            "request": "launch",
+            "mainClass": "CoinSystem",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Chainlength",
             "request": "launch",
             "mainClass": "Chainlength",
