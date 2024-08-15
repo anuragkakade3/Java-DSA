@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JobSequence",
+            "request": "launch",
+            "mainClass": "JobSequence",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "CoinSystem",
             "request": "launch",
             "mainClass": "CoinSystem",
