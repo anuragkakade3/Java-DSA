@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumNods",
+            "request": "launch",
+            "mainClass": "SumNods",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "CountNodes",
             "request": "launch",
             "mainClass": "CountNodes",
