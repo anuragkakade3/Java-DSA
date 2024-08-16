@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DiameterOptimized",
+            "request": "launch",
+            "mainClass": "DiameterOptimized",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "DiameterBF",
+            "request": "launch",
+            "mainClass": "DiameterBF",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "SumNods",
             "request": "launch",
             "mainClass": "SumNods",
