@@ -42,6 +42,5 @@ public class CountNodes {
         root.right.right=new Node(7);
 
         System.out.println(count(root));
-
     }   
 }
