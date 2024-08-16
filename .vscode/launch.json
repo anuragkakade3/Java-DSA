@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Height",
+            "request": "launch",
+            "mainClass": "Height",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "LevelOrder",
             "request": "launch",
             "mainClass": "LevelOrder",
