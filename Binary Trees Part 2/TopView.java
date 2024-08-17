@@ -1,7 +1,6 @@
 // import java.util.Queue;
 // import java.util.HashMap;
 // import java.util.Map;
-
 import java.util.LinkedList;
 import java.util.*;
 
@@ -49,6 +48,7 @@ public class TopView {
                 }
             } else {
                 if(!map.containsKey(curr.hd)){ // Fisrt time my hd is occuring
+                    //Returns true if this map contains a mapping for the specified key. = containsKey(curr.hd)
                 map.put(curr.hd, curr.node);
                 }
 
