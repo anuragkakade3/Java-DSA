@@ -27,11 +27,7 @@ public class Klevel {
         Klevel(root.left, level+1, k);
         Klevel(root.right, level+1, k);
     }    
-
-
-
-    
-
+ 
     public static void main(String[] args) {
         /* 
 
