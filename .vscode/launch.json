@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Klevel",
+            "request": "launch",
+            "mainClass": "Klevel",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "TopView",
             "request": "launch",
             "mainClass": "TopView",
