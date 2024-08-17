@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KthAncestor",
+            "request": "launch",
+            "mainClass": "KthAncestor",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "MinDistBetNode",
             "request": "launch",
             "mainClass": "MinDistBetNode",
