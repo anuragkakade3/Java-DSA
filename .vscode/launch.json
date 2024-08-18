@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Validate",
+            "request": "launch",
+            "mainClass": "Validate",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Mirror",
+            "request": "launch",
+            "mainClass": "Mirror",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Root2Leaf",
             "request": "launch",
             "mainClass": "Root2Leaf",
