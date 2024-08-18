@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RangePrint",
+            "request": "launch",
+            "mainClass": "RangePrint",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Delete",
             "request": "launch",
             "mainClass": "Delete",
