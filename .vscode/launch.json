@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Root2Leaf",
+            "request": "launch",
+            "mainClass": "Root2Leaf",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "RangePrint",
             "request": "launch",
             "mainClass": "RangePrint",
