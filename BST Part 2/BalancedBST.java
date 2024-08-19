@@ -74,6 +74,20 @@ public static Node balancedBST(Node root){
             3             12
 
 */
+
+ /* 
+
+        Expected BST
+
+                   8
+                 /   \
+                5     11
+               / \    / \
+              3   6  10  12
+
+
+*/
+
         Node root=new Node(8);
         root.left=new Node(6);
         root.left.left=new Node(5);
