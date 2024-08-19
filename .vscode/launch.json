@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BalancedBST",
+            "request": "launch",
+            "mainClass": "BalancedBST",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "SortedBST",
             "request": "launch",
             "mainClass": "SortedBST",
