@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AND",
+            "request": "launch",
+            "mainClass": "AND",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "AVLTree",
             "request": "launch",
             "mainClass": "AVLTree",
