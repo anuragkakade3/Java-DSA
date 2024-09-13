@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OddorEven",
+            "request": "launch",
+            "mainClass": "OddorEven",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "RightShift",
+            "request": "launch",
+            "mainClass": "RightShift",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "LeftShift",
+            "request": "launch",
+            "mainClass": "LeftShift",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "NOT",
+            "request": "launch",
+            "mainClass": "NOT",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "XOR",
+            "request": "launch",
+            "mainClass": "XOR",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "OR",
             "request": "launch",
             "mainClass": "OR",
