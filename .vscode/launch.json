@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Clear",
+            "request": "launch",
+            "mainClass": "Clear",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Get",
             "request": "launch",
             "mainClass": "Get",
