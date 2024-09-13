@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Get",
+            "request": "launch",
+            "mainClass": "Get",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Set",
+            "request": "launch",
+            "mainClass": "Set",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "OddorEven",
             "request": "launch",
             "mainClass": "OddorEven",
