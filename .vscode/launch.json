@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Countset",
+            "request": "launch",
+            "mainClass": "Countset",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Checknopower",
+            "request": "launch",
+            "mainClass": "Checknopower",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "ClearRange",
+            "request": "launch",
+            "mainClass": "ClearRange",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "ClearLast",
+            "request": "launch",
+            "mainClass": "ClearLast",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Update",
+            "request": "launch",
+            "mainClass": "Update",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Clear",
             "request": "launch",
             "mainClass": "Clear",
