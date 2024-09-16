@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Butterfly",
+            "request": "launch",
+            "mainClass": "Butterfly",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Countset",
             "request": "launch",
             "mainClass": "Countset",
