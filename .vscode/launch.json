@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Objects",
+            "request": "launch",
+            "mainClass": "Objects",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Fastexpo",
             "request": "launch",
             "mainClass": "Fastexpo",
