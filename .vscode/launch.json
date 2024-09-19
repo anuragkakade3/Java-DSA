@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Remove",
+            "request": "launch",
+            "mainClass": "Remove",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Objects",
             "request": "launch",
             "mainClass": "Objects",

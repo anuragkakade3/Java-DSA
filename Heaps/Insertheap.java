@@ -19,6 +19,11 @@ public class Insertheap {
                 int temp=arr.get(x);
                 arr.set(x, arr.get(par));
                 arr.set(par, temp);
+
+
+                x=par;
+                par=(x-1)/2;
+
             }
         }
     }
