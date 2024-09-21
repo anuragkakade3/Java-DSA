@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Nearbycars",
+            "request": "launch",
+            "mainClass": "Nearbycars",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "GETSET",
+            "request": "launch",
+            "mainClass": "GETSET",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Heapsort",
+            "request": "launch",
+            "mainClass": "Heapsort",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Remove",
             "request": "launch",
             "mainClass": "Remove",
