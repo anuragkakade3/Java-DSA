@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SlidingWindow",
+            "request": "launch",
+            "mainClass": "SlidingWindow",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "WeekestSoldier",
+            "request": "launch",
+            "mainClass": "WeekestSoldier",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "RopesMinCost",
             "request": "launch",
             "mainClass": "RopesMinCost",
