@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RopesMinCost",
+            "request": "launch",
+            "mainClass": "RopesMinCost",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Nearbycars",
             "request": "launch",
             "mainClass": "Nearbycars",
