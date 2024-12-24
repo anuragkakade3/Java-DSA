@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Mejorityelement",
+            "request": "launch",
+            "mainClass": "Hashing.Mejorityelement",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "LLhashMap",
+            "request": "launch",
+            "mainClass": "Hashing.LLhashMap",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Hashmapcode",
+            "request": "launch",
+            "mainClass": "Hashing.Hashmapcode",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Keysetnote",
+            "request": "launch",
+            "mainClass": "Hashing.Keysetnote",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Hashmapintro",
+            "request": "launch",
+            "mainClass": "Hashing.Hashmapintro",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "SlidingWindow",
             "request": "launch",
             "mainClass": "SlidingWindow",
