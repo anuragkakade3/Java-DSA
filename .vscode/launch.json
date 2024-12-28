@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Prefix",
+            "request": "launch",
+            "mainClass": "Tries.Prefix",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Wordbreak",
+            "request": "launch",
+            "mainClass": "Tries.Wordbreak",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Triesinsert",
+            "request": "launch",
+            "mainClass": "Tries.Triesinsert",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Triesnotes",
+            "request": "launch",
+            "mainClass": "Tries.Triesnotes",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Subarrayequal",
             "request": "launch",
             "mainClass": "Hashing.Subarrayequal",
