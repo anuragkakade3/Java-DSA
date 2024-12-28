@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Subarrayequal",
+            "request": "launch",
+            "mainClass": "Hashing.Subarrayequal",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Largestsubarray",
+            "request": "launch",
+            "mainClass": "Hashing.Largestsubarray",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Itinerary",
+            "request": "launch",
+            "mainClass": "Hashing.Itinerary",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Unionintersection",
+            "request": "launch",
+            "mainClass": "Hashing.Unionintersection",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Countdistinct",
+            "request": "launch",
+            "mainClass": "Hashing.Countdistinct",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Treesetnote",
+            "request": "launch",
+            "mainClass": "Hashing.Treesetnote",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Linkedhashsetnote",
+            "request": "launch",
+            "mainClass": "Hashing.Linkedhashsetnote",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Hashsetiterator",
+            "request": "launch",
+            "mainClass": "Hashing.Hashsetiterator",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Hashsetnotes",
+            "request": "launch",
+            "mainClass": "Hashing.Hashsetnotes",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Validanagram",
+            "request": "launch",
+            "mainClass": "Hashing.Validanagram",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
             "name": "Mejorityelement",
             "request": "launch",
             "mainClass": "Hashing.Mejorityelement",
