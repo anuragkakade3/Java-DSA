@@ -5,6 +5,34 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrix",
+            "request": "launch",
+            "mainClass": "Two_D_Array.SpiralMatrix",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Compression",
+            "request": "launch",
+            "mainClass": "strings.Compression",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
+            "type": "java",
+            "name": "Stringbuilder",
+            "request": "launch",
+            "mainClass": "strings.Stringbuilder",
+            "projectName": "Java-DSA_ff0f2900"
+        },
+        {
             "type": "java",
             "name": "Prefix",
             "request": "launch",
